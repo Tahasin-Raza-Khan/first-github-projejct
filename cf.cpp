@@ -5,7 +5,7 @@ int main(){
 
 
 
-
+cout<<"hello ji kese ho sare"<<'\n';
 
 
 
